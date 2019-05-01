@@ -1,0 +1,52 @@
+first go to a governmental tax payment site.
+choose method of paying tax.
+If you choose pay by card method ,you need to pay some additional
+flat fee,need to choose a payment processor link..Each link will
+ask different types of additional fees.
+
+
+Or if you choose the direct pay method ,it will give you two
+options ---
+1.Make a payment.
+2.Look up a payment.
+
+1.Make a payment:--
+First choose apply payment to..---It will ask for tay payment 
+according to which section.
+
+Then,choose reason to payment ---
+such as , installment agreement.
+
+Then , select a tax period for the payment.
+Such as, 2015.
+
+Then a confirmation pop-up box may appear.
+
+Then,the system will ask for veryfying identity.
+Where user needs choose the tax year for verification.
+Filing status.
+And also needs to include other information of the respective user.
+such as ,fName,lName,DOB,country of residence etc.
+
+ 
+
+The then go the next page for making payment.
+and then user proceed to the next page,where he will review 
+the data he has inputted ,and give his initial,
+And then the user goes for the next page.
+In that page,he needs to confirm the tax payment ,in other word
+confirmation.
+
+
+2.In look up payment user can see the tax payment he has made 
+in the following year.
+
+
+
+Aggregate Income:----
+The sum of all your taxable income that will be automatically totalled
+ for you on your online tax return form. It includes income from
+ employment, rent, royalties, and so on, but does not includ
+ non-taxable income.
+
+Benefits-in-kind:----
